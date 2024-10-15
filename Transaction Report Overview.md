@@ -5,7 +5,7 @@ Power BI Financial Dashboard
 
 ![Transactional report](https://github.com/navinsingh1813/Credit_Card_Dashboard/blob/main/Image/1.%20Credit_Card%20Transactional%20Report.png)
 
-## Credit Card Transaction Report
+## Credit Card Transaction Report Overview
 
 This dashboard provides a comprehensive overview of credit card transactions, segmented by various categories. The layout offers key metrics and trends for better understanding of revenue generation, transaction patterns, and customer behavior. Below is a breakdown of the different sections and visual elements used in the report.
 
